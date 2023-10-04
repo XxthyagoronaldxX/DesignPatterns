@@ -9,7 +9,7 @@ public class PizzaOriginator extends IMemento<PizzaOriginator> {
     private String name;
     private List<String> ingredients;
 
-    private PizzaOriginator() {
+    public PizzaOriginator() {
         this.ingredients = new ArrayList<>();
     }
 

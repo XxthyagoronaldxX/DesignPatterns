@@ -17,7 +17,7 @@ public abstract class IMemento<T> {
     public void restore() {
         this.redo(this.history.pop());
     }
-
+    
     abstract protected T copy();
 
     abstract protected void redo(T state);
