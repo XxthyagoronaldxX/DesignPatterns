@@ -1,0 +1,11 @@
+software\designpatterns\memento\BurguerOriginator.class
+software\designpatterns\mementocustom\MementoCustomApp.class
+software\designpatterns\utils\ListUtil.class
+software\designpatterns\memento\IMemento.class
+software\designpatterns\mementocustom\PizzaOriginator.class
+software\designpatterns\memento\MementoApp.class
+software\designpatterns\mementocustom\IMemento.class
+software\designpatterns\memento\Caretaker.class
+software\designpatterns\DesignPatterns.class
+software\designpatterns\memento\BurguerMemento.class
+software\designpatterns\memento\IOriginator.class
